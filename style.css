@@ -22,9 +22,9 @@ p{
 img {
     width: 180px; /* o el tamaño deseado en píxeles */
     height: auto;
-    position: relative;
-    top: 5;
-    right: 10;
+    position: absolute;
+    top: 5px;
+    right: 10px;
     margin: 40px; /* Añade margen para separar la imagen del borde de la ventana */
     border-radius: 8px; /* Otra sugerencia, agregar bordes redondeados para un aspecto más suave */
 }
