@@ -24,7 +24,7 @@ img {
     height: auto;
     position: absolute;
     top: 5;
-    right: 0;
+    right: 10;
     margin: 40px; /* Añade margen para separar la imagen del borde de la ventana */
     border-radius: 8px; /* Otra sugerencia, agregar bordes redondeados para un aspecto más suave */
 }
