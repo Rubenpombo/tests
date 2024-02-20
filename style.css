@@ -20,9 +20,9 @@ p{
 
 
 img {
-    width: 150px; /* o el tamaño deseado en píxeles */
+    width: 180px; /* o el tamaño deseado en píxeles */
     height: auto;
-    position: absolute;
+    position: relative;
     top: 5;
     right: 10;
     margin: 40px; /* Añade margen para separar la imagen del borde de la ventana */
