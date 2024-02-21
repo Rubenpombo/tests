@@ -9,6 +9,13 @@ header {
     color: #fff;
     text-align: center;
     padding: 20px;
+    
+}
+
+header img {
+    width: 150px; /* Ajusta el tamaño según sea necesario */
+    border-radius: 50%; /* Hace que la imagen tenga bordes redondeados */
+    margin-bottom: 10px; /* Ajusta el margen inferior según sea necesario */
 }
 
 section {
